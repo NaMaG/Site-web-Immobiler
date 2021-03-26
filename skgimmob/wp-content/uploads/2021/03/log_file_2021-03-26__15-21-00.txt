@@ -1,0 +1,136 @@
+
+---Downloaded files---
+The import files for: Demo Import 1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wdpress_website/skgimmob
+Data file = C:\wamp64\www\wdpress_website\skgimmob/wp-content/themes/real-estate-salient-pro-1/real-estate-salient-pro/demo/demo11.xml
+Widget file = C:\wamp64\www\wdpress_website\skgimmob/wp-content/themes/real-estate-salient-pro-1/real-estate-salient-pro/demo/demo11.wie
+Customizer file = C:\wamp64\www\wdpress_website\skgimmob/wp-content/themes/real-estate-salient-pro-1/real-estate-salient-pro/demo/demo11.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar widgets : 
+
+Archives - No Title - Imported
+Catégories - No Title - Imported
+ERE Featured Properties - No Title - Imported
+ERE Mortgage Calculator - Mortgage Calculator - Imported
+ERE Search Form - Search Form - Imported
+ERE Top Agents - Top Agents - Imported
+ERE Listing Property Taxonomy - No Title - Imported
+
+Footer Widget Left : 
+
+Texte - About Us - Imported
+Rechercher - No Title - Imported
+
+Footer Widget Middle : 
+
+Commentaires récents - No Title - Imported
+
+Footer Widget Right : 
+
+Galerie - Our best agents - Imported
+Texte - No Title - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---pt-ocdi/after_import---
+
